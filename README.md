@@ -13,7 +13,7 @@ Save your current open pages with one click. If you are in a hurry no need to gi
 ![](https://github.com/oxyzeninfolab/alltabs/blob/gh-pages/images/save-tabs.gif?raw=true)
 
 ### Open Any Tab Later
-Save your current open pages with one click. If you are in a hurry no need to give the file name. The current time will be the default file name so that you can easily identify the session.
+Open tabs one by one as per your priority, instead of opening all tabs.
 ![](https://github.com/oxyzeninfolab/alltabs/blob/gh-pages/images/open-tab.gif?raw=true)
 
 ### Open All Tabs Later
